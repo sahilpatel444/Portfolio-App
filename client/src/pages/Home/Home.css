@@ -1,0 +1,76 @@
+.home-comtainer {
+    height: 300px;
+    color: white;
+   
+}
+.home-content h2{
+    padding: 5px;
+    padding-top: 80px;
+    margin-left: 90px;
+}
+.home-content h1{
+    padding: 5px;
+    color: #e0b50f;
+    margin-left: 80px;
+}
+.home-buttons{
+    margin-left: 80px;
+    margin-top: 20px;
+}
+.home-buttons .btn-hire{
+    background-color: #3b8ff3;
+    color: white;
+    width: 160px;
+    
+}
+.home-buttons .btn-hire:hover{
+    background-color: white;
+    color: #3b8ff3;
+    width: 190px;
+    transition: 1s;
+}
+.home-buttons .btn-cv{
+    background-color: #f29f67;
+    color: white;
+    margin-left: 15px;
+   
+}
+.home-buttons .btn-cv:hover{
+    background-color: white;
+    color: #f29f67;
+   
+    
+}
+.theme-btn{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 50px;
+    width: 50px;
+    background-color: #1e1e1e;
+    margin-top: 20px;
+    text-align: center;
+    position: fixed;
+    cursor: pointer;
+    right: 0;
+    border-top-left-radius: 10px;
+    border-bottom-left-radius: 10px;
+    z-index: 1;
+}
+
+/* mobile view */
+@media (max-width:600px){
+    .home-comtainer{
+        padding: 0;
+        margin: 0;
+        margin-top: 30px;
+    }
+    .home-comtainer h2{
+        font-size: 24px;
+    }
+
+    .home-comtainer h1{
+        font-size: 24px;
+    }
+   
+}
