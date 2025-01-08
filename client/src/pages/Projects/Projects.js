@@ -19,18 +19,18 @@ const Projects = () => {
           <div className="col-md-4">
             <div className="card rounded">
               <div className="card-image">
-                <span className="card-notify-badge">Full stack</span>
-                <img src="image/project1.jpeg" alt="project1" />
+                {/* <span className="card-notify-badge">Reactjs</span> */}
+                <img src="image/project1.png" alt="project1" />
               </div>
               <div className="card-image-overly m-auto">
-                <span className="card-detail-badge">Node</span>
-                <span className="card-detail-badge">Express</span>
+               
                 <span className="card-detail-badge">react</span>
-                <span className="card-detail-badge">Mongodb</span>
+                <span className="card-detail-badge">API</span>
+               
               </div>
               <div className="card-body text-center">
                 <div className="ad-title m-auto mt-3">
-                  <h5 className="text-uppercase">STYLUXE Ecommerce Website</h5>
+                  <h5 className="text-uppercase">NEWS APP</h5>
                 </div>
                 <a className="ad-btn" href="styluxe.com">
                   View
@@ -41,14 +41,13 @@ const Projects = () => {
           <div className="col-md-4">
             <div className="card rounded">
               <div className="card-image">
-                <span className="card-notify-badge">Full stack</span>
-                <img src="image/project1.jpeg" alt="project1" />
+                {/* <span className="card-notify-badge">Full stack</span> */}
+                <img src="image/project2.png" alt="project1" />
               </div>
               <div className="card-image-overly m-auto">
-                <span className="card-detail-badge">Node</span>
-                <span className="card-detail-badge">Express</span>
+            
                 <span className="card-detail-badge">react</span>
-                <span className="card-detail-badge">Mongodb</span>
+           
               </div>
               <div className="card-body text-center">
                 <div className="ad-title m-auto mt-3">

@@ -30,9 +30,9 @@ const Home = () => {
               <Typewriter
                 options={{
                   strings: [
-                    "Full Stack Developer!",
+                    
+                    "React js Developer!",
                     "Mern Stack Developer!",
-                    "React native Developer!",
                   ],
                   autoStart: true,
                   loop: true,
