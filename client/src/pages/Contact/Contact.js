@@ -65,18 +65,13 @@ const Contact = () => {
                     <div className="row">
                       <div className="row">
                         <h6 className="link-icon">
-                 
                           Contact With
-                       
-                          <CiLinkedin
-                            color="blue"
-                            size={30}
-                            className="ms-2"
-                           
-                        
-                            />
-                            
-                          <FaGithub size={30} className="ms-2" />
+                          <CiLinkedin color="blue" size={30} className="ms-2" />
+                          <>
+                            <a href="https://www.instagram.com/sahil_vaddoriya_444/">
+                              <FaGithub size={30} className="ms-2" />
+                            </a>
+                          </>
                           <FaFacebookSquare
                             color="blue"
                             size={30}
