@@ -63,7 +63,7 @@ const Projects = () => {
             <div className="card rounded">
               <div className="card-image">
                 <span className="card-notify-badge">Full stack</span>
-                <img src="image/project1.jpeg" alt="project1" />
+                <img src="image/chat-app.png" alt="project3" />
               </div>
               <div className="card-image-overly m-auto">
                 <span className="card-detail-badge">Node</span>
@@ -73,7 +73,7 @@ const Projects = () => {
               </div>
               <div className="card-body text-center">
                 <div className="ad-title m-auto mt-3">
-                  <h5 className="text-uppercase">STYLUXE Ecommerce Website</h5>
+                  <h5 className="text-uppercase">Message Website </h5>
                 </div>
                 
                 <a className="ad-btn" href="view">

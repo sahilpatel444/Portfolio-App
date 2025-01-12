@@ -66,9 +66,13 @@ const Contact = () => {
                       <div className="row">
                         <h6 className="link-icon">
                           Contact With
+                          <><a href="https://www.linkedin.com/in/sahil-vaddoriya">
+                            
                           <CiLinkedin color="blue" size={30} className="ms-2" />
+                          </a>
+                          </>
                           <>
-                            <a href="https://www.instagram.com/sahil_vaddoriya_444/">
+                            <a href="https://github.com/sahilpatel444">
                               <FaGithub size={30} className="ms-2" />
                             </a>
                           </>
