@@ -52,7 +52,7 @@ const Contact = () => {
                 <div className="card1">
                   <div className="row border-line">
                     <img
-                      src="image/contact.jpg"
+                      src="image/contactus.jpg"
                       alt="ocontact"
                       className="image"
                     />
