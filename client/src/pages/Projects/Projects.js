@@ -51,7 +51,7 @@ const Projects = () => {
               </div>
               <div className="card-body text-center">
                 <div className="ad-title m-auto mt-3">
-                  <h5 className="text-uppercase">STYLUXE Ecommerce Website</h5>
+                  <h5 className="text-uppercase">weather Website</h5>
                 </div>
                 <a className="ad-btn" href="styluxe.com">
                   View
