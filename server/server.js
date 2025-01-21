@@ -13,7 +13,7 @@ app.use(cors());
 app.use(express.json());
 
 //routes
-app.use("/api/v1/portfolio", require("./routes/portfolioRoutes"));
+app.post("/api/v1/portfolio", require("./routes/portfolioRoutes"));
 //port
 const PORT = process.env.PORT;
 
