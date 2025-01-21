@@ -21,6 +21,10 @@ app.use(cors({
 }));
 app.use(express.json());
 
+app.get('/', (req, res) => {
+  res.send('products api running new deploy');
+});
+
 //routes
 app.post("/api/v1/portfolio", require("./routes/portfolioRoutes"));
 //port
