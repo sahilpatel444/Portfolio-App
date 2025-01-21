@@ -26,7 +26,7 @@ app.get('/', (req, res) => {
 });
 
 //routes
-app.post("/api/v1/portfolio", require("./routes/portfolioRoutes"));
+app.use("/api/v1/portfolio", require("./routes/portfolioRoutes"));
 //port
 const PORT = process.env.PORT;
 
