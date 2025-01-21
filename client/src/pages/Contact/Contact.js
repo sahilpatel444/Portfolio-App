@@ -22,7 +22,7 @@ const Contact = () => {
         toast.error("Please Provide All Fields");
       }
       const res = await axios.post(
-        "http://localhost:8080/api/v1/portfolio/sendEmail",
+        `https://sahil-portfolio-server.vercel.app/api/v1/portfolio/sendEmail`,
         {
           name,
           email,
