@@ -23,7 +23,8 @@ const Contact = () => {
       }
       const res = await axios.post(
         // "http://localhost:8080/api/v1/portfolio/sendEmail",
-        `https://portfolio-server-app.vercel.app/api/v1/portfolio/sendEmail`,
+        `https://portfolio-app-server-pm99.onrender.com/api/v1/portfolio/sendEmail`,
+        // `https://portfolio-server-app.vercel.app/api/v1/portfolio/sendEmail`,
         {
           name,
           email,

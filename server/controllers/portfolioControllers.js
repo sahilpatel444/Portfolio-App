@@ -1,7 +1,5 @@
 const nodemailer = require("nodemailer");
 
-//console.log(" API_MAILJET", process.env.API_MAILJET);
-//transport
 
 const transporter = nodemailer.createTransport({
   service: "gmail",
