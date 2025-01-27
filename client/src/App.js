@@ -10,6 +10,7 @@ import { useTheme } from "./context/ThemeContext";
 import MobileNav from "./components/MobileNav/MobileNav";
 import { ToastContainer } from 'react-toastify';
 import 'react-toastify/dist/ReactToastify.css';
+import { Analytics } from "@vercel/analytics/react"
 
 function App() {
   const [theme] = useTheme()
@@ -18,6 +19,7 @@ function App() {
     <div id={theme}>
       <ToastContainer />
       <MobileNav />
+      <Analytics/>
       <Layout />
       <div className="container">
         <About />
