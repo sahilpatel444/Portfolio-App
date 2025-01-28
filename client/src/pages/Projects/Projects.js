@@ -76,7 +76,7 @@ const Projects = () => {
                   <h5 className="text-uppercase">Message Website </h5>
                 </div>
                 
-                <a className="ad-btn" href="view">
+                <a className="ad-btn" href="https://github.com/sahilpatel444/chat-app">
                   View
                 </a>
               </div>
