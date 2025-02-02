@@ -33,7 +33,7 @@ const MobileNav = () => {
             <GiHamburgerMenu size={30} className='mobile-nav-icon' onClick={handleOpen} 
             />
               )}
-            <span className='mobile-nav-title'>My Portfolio App</span>
+            <span className='mobile-nav-title'>My Portfolio </span>
 
         </div>
         {open && (

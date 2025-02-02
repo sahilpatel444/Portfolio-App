@@ -16,7 +16,7 @@ app.use(cors());
 app.use(express.json());
 
 app.get('/', (req, res) => {
-  res.send('products api running');
+  res.send('products api running new deploy');
 });
 
 //routes

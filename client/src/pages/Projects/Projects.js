@@ -30,7 +30,7 @@ const Projects = () => {
               </div>
               <div className="card-body text-center">
                 <div className="ad-title m-auto mt-3">
-                  <h5 className="text-uppercase">NEWS APP</h5>
+                  <h5 className="text-uppercase">NEWS WEB APP</h5>
                 </div>
                 <a className="ad-btn" href="styluxe.com">
                   View
@@ -51,7 +51,7 @@ const Projects = () => {
               </div>
               <div className="card-body text-center">
                 <div className="ad-title m-auto mt-3">
-                  <h5 className="text-uppercase">weather Website</h5>
+                  <h5 className="text-uppercase">weather Web App</h5>
                 </div>
                 <a className="ad-btn" href="styluxe.com">
                   View
@@ -73,7 +73,7 @@ const Projects = () => {
               </div>
               <div className="card-body text-center">
                 <div className="ad-title m-auto mt-3">
-                  <h5 className="text-uppercase">Message Website </h5>
+                  <h5 className="text-uppercase">Message WEB app </h5>
                 </div>
                 
                 <a className="ad-btn" href="https://github.com/sahilpatel444/chat-app">
