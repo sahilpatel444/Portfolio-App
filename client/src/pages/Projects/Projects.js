@@ -33,7 +33,7 @@ const Projects = () => {
                 <div className="ad-title m-auto mt-3">
                   <h5 className="text-uppercase">IMG RESIZER</h5>
                 </div>
-                <a className="ad-btn" href="https://github.com/sahilpatel444/img-resize">
+                <a className="ad-btn" href="https://imgsizex.netlify.app">
                   View
                 </a>
               </div>
