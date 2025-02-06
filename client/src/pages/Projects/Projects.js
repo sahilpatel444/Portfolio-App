@@ -20,19 +20,20 @@ const Projects = () => {
             <div className="card rounded">
               <div className="card-image">
                 {/* <span className="card-notify-badge">Reactjs</span> */}
-                <img src="image/project1.png" alt="project1" />
+                <img src="image/imgsizex.png" alt="project1" />
               </div>
               <div className="card-image-overly m-auto">
                
                 <span className="card-detail-badge">react</span>
-                <span className="card-detail-badge">API</span>
+                <span className="card-detail-badge">jspdf</span>
+                <span className="card-detail-badge">pdfjs-dist</span>
                
               </div>
               <div className="card-body text-center">
                 <div className="ad-title m-auto mt-3">
-                  <h5 className="text-uppercase">NEWS WEB APP</h5>
+                  <h5 className="text-uppercase">IMG RESIZER</h5>
                 </div>
-                <a className="ad-btn" href="styluxe.com">
+                <a className="ad-btn" href="https://github.com/sahilpatel444/img-resize">
                   View
                 </a>
               </div>
@@ -53,7 +54,7 @@ const Projects = () => {
                 <div className="ad-title m-auto mt-3">
                   <h5 className="text-uppercase">weather Web App</h5>
                 </div>
-                <a className="ad-btn" href="styluxe.com">
+                <a className="ad-btn" href="https://github.com/sahilpatel444/sahil-project/tree/main/client/src/Components/Weatherapp">
                   View
                 </a>
               </div>
