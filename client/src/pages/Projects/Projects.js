@@ -20,7 +20,7 @@ const Projects = () => {
             <div className="card rounded">
               <div className="card-image">
                 {/* <span className="card-notify-badge">Reactjs</span> */}
-                <img src="image/imgsizex.png" alt="project1" />
+                <img src="image/imgresizex.png" alt="project1" />
               </div>
               <div className="card-image-overly m-auto">
                
